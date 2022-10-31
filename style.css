@@ -682,6 +682,10 @@ body {
     background-image: url(img/japon.png);
 }
 
+.checa {
+    background-image: url(img/chequia.jpg);
+}
+
 
 
 @media screen and (max-width: 1100px){
